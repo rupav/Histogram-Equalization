@@ -19,7 +19,7 @@ _**## Histogram of intensities of Transformed Image**_
 
 _**## Projecting transformed histogram into the original image!**_
 ![GHE transformed Image](https://github.com/rupav/Image-Histogram-Equalizaion/blob/master/transformed_image.png)
-### See the difference... Better contrast than oiginal!
+### See the difference... Better contrast than original!
 
 **# Conclusion!**
 
